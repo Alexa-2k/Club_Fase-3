@@ -1,0 +1,65 @@
+C:\Users\Lore\Documents\00programacion\01. Tecnicatura en desarrollo de software\0 2do cuatrimestre\DSOO - MDS\PRACTICAS\repos\Club\bin\Debug\netcoreapp3.1\Club.exe
+C:\Users\Lore\Documents\00programacion\01. Tecnicatura en desarrollo de software\0 2do cuatrimestre\DSOO - MDS\PRACTICAS\repos\Club\bin\Debug\netcoreapp3.1\Club.deps.json
+C:\Users\Lore\Documents\00programacion\01. Tecnicatura en desarrollo de software\0 2do cuatrimestre\DSOO - MDS\PRACTICAS\repos\Club\bin\Debug\netcoreapp3.1\Club.runtimeconfig.json
+C:\Users\Lore\Documents\00programacion\01. Tecnicatura en desarrollo de software\0 2do cuatrimestre\DSOO - MDS\PRACTICAS\repos\Club\bin\Debug\netcoreapp3.1\Club.runtimeconfig.dev.json
+C:\Users\Lore\Documents\00programacion\01. Tecnicatura en desarrollo de software\0 2do cuatrimestre\DSOO - MDS\PRACTICAS\repos\Club\bin\Debug\netcoreapp3.1\Club.dll
+C:\Users\Lore\Documents\00programacion\01. Tecnicatura en desarrollo de software\0 2do cuatrimestre\DSOO - MDS\PRACTICAS\repos\Club\bin\Debug\netcoreapp3.1\Club.pdb
+C:\Users\Lore\Documents\00programacion\01. Tecnicatura en desarrollo de software\0 2do cuatrimestre\DSOO - MDS\PRACTICAS\repos\Club\obj\Debug\netcoreapp3.1\Club.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lore\Documents\00programacion\01. Tecnicatura en desarrollo de software\0 2do cuatrimestre\DSOO - MDS\PRACTICAS\repos\Club\obj\Debug\netcoreapp3.1\Club.AssemblyInfoInputs.cache
+C:\Users\Lore\Documents\00programacion\01. Tecnicatura en desarrollo de software\0 2do cuatrimestre\DSOO - MDS\PRACTICAS\repos\Club\obj\Debug\netcoreapp3.1\Club.AssemblyInfo.cs
+C:\Users\Lore\Documents\00programacion\01. Tecnicatura en desarrollo de software\0 2do cuatrimestre\DSOO - MDS\PRACTICAS\repos\Club\obj\Debug\netcoreapp3.1\Club.csproj.CoreCompileInputs.cache
+C:\Users\Lore\Documents\00programacion\01. Tecnicatura en desarrollo de software\0 2do cuatrimestre\DSOO - MDS\PRACTICAS\repos\Club\obj\Debug\netcoreapp3.1\Club.dll
+C:\Users\Lore\Documents\00programacion\01. Tecnicatura en desarrollo de software\0 2do cuatrimestre\DSOO - MDS\PRACTICAS\repos\Club\obj\Debug\netcoreapp3.1\Club.pdb
+C:\Users\Lore\Documents\00programacion\01. Tecnicatura en desarrollo de software\0 2do cuatrimestre\DSOO - MDS\PRACTICAS\repos\Club\obj\Debug\netcoreapp3.1\Club.genruntimeconfig.cache
+C:\Users\Lore\Documents\00programacion\01. Tecnicatura en desarrollo de software\0 2do cuatrimestre\DSOO - MDS\PRACTICAS\repos\Club - Copy\bin\Debug\netcoreapp3.1\Club.exe
+C:\Users\Lore\Documents\00programacion\01. Tecnicatura en desarrollo de software\0 2do cuatrimestre\DSOO - MDS\PRACTICAS\repos\Club - Copy\bin\Debug\netcoreapp3.1\Club.deps.json
+C:\Users\Lore\Documents\00programacion\01. Tecnicatura en desarrollo de software\0 2do cuatrimestre\DSOO - MDS\PRACTICAS\repos\Club - Copy\bin\Debug\netcoreapp3.1\Club.runtimeconfig.json
+C:\Users\Lore\Documents\00programacion\01. Tecnicatura en desarrollo de software\0 2do cuatrimestre\DSOO - MDS\PRACTICAS\repos\Club - Copy\bin\Debug\netcoreapp3.1\Club.runtimeconfig.dev.json
+C:\Users\Lore\Documents\00programacion\01. Tecnicatura en desarrollo de software\0 2do cuatrimestre\DSOO - MDS\PRACTICAS\repos\Club - Copy\bin\Debug\netcoreapp3.1\Club.dll
+C:\Users\Lore\Documents\00programacion\01. Tecnicatura en desarrollo de software\0 2do cuatrimestre\DSOO - MDS\PRACTICAS\repos\Club - Copy\bin\Debug\netcoreapp3.1\Club.pdb
+C:\Users\Lore\Documents\00programacion\01. Tecnicatura en desarrollo de software\0 2do cuatrimestre\DSOO - MDS\PRACTICAS\repos\Club - Copy\obj\Debug\netcoreapp3.1\Club.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lore\Documents\00programacion\01. Tecnicatura en desarrollo de software\0 2do cuatrimestre\DSOO - MDS\PRACTICAS\repos\Club - Copy\obj\Debug\netcoreapp3.1\Club.AssemblyInfoInputs.cache
+C:\Users\Lore\Documents\00programacion\01. Tecnicatura en desarrollo de software\0 2do cuatrimestre\DSOO - MDS\PRACTICAS\repos\Club - Copy\obj\Debug\netcoreapp3.1\Club.AssemblyInfo.cs
+C:\Users\Lore\Documents\00programacion\01. Tecnicatura en desarrollo de software\0 2do cuatrimestre\DSOO - MDS\PRACTICAS\repos\Club - Copy\obj\Debug\netcoreapp3.1\Club.csproj.CoreCompileInputs.cache
+C:\Users\Lore\Documents\00programacion\01. Tecnicatura en desarrollo de software\0 2do cuatrimestre\DSOO - MDS\PRACTICAS\repos\Club - Copy\obj\Debug\netcoreapp3.1\Club.dll
+C:\Users\Lore\Documents\00programacion\01. Tecnicatura en desarrollo de software\0 2do cuatrimestre\DSOO - MDS\PRACTICAS\repos\Club - Copy\obj\Debug\netcoreapp3.1\Club.pdb
+C:\Users\Lore\Documents\00programacion\01. Tecnicatura en desarrollo de software\0 2do cuatrimestre\DSOO - MDS\PRACTICAS\repos\Club - Copy\obj\Debug\netcoreapp3.1\Club.genruntimeconfig.cache
+C:\Users\Lore\Documents\00programacion\01. Tecnicatura en desarrollo de software\0 2do cuatrimestre\DSOO - MDS\Al DRIVE\Club\Club-main\bin\Debug\netcoreapp3.1\Club.exe
+C:\Users\Lore\Documents\00programacion\01. Tecnicatura en desarrollo de software\0 2do cuatrimestre\DSOO - MDS\Al DRIVE\Club\Club-main\bin\Debug\netcoreapp3.1\Club.deps.json
+C:\Users\Lore\Documents\00programacion\01. Tecnicatura en desarrollo de software\0 2do cuatrimestre\DSOO - MDS\Al DRIVE\Club\Club-main\bin\Debug\netcoreapp3.1\Club.runtimeconfig.json
+C:\Users\Lore\Documents\00programacion\01. Tecnicatura en desarrollo de software\0 2do cuatrimestre\DSOO - MDS\Al DRIVE\Club\Club-main\bin\Debug\netcoreapp3.1\Club.runtimeconfig.dev.json
+C:\Users\Lore\Documents\00programacion\01. Tecnicatura en desarrollo de software\0 2do cuatrimestre\DSOO - MDS\Al DRIVE\Club\Club-main\bin\Debug\netcoreapp3.1\Club.dll
+C:\Users\Lore\Documents\00programacion\01. Tecnicatura en desarrollo de software\0 2do cuatrimestre\DSOO - MDS\Al DRIVE\Club\Club-main\bin\Debug\netcoreapp3.1\Club.pdb
+C:\Users\Lore\Documents\00programacion\01. Tecnicatura en desarrollo de software\0 2do cuatrimestre\DSOO - MDS\Al DRIVE\Club\Club-main\obj\Debug\netcoreapp3.1\Club.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lore\Documents\00programacion\01. Tecnicatura en desarrollo de software\0 2do cuatrimestre\DSOO - MDS\Al DRIVE\Club\Club-main\obj\Debug\netcoreapp3.1\Club.AssemblyInfoInputs.cache
+C:\Users\Lore\Documents\00programacion\01. Tecnicatura en desarrollo de software\0 2do cuatrimestre\DSOO - MDS\Al DRIVE\Club\Club-main\obj\Debug\netcoreapp3.1\Club.AssemblyInfo.cs
+C:\Users\Lore\Documents\00programacion\01. Tecnicatura en desarrollo de software\0 2do cuatrimestre\DSOO - MDS\Al DRIVE\Club\Club-main\obj\Debug\netcoreapp3.1\Club.csproj.CoreCompileInputs.cache
+C:\Users\Lore\Documents\00programacion\01. Tecnicatura en desarrollo de software\0 2do cuatrimestre\DSOO - MDS\Al DRIVE\Club\Club-main\obj\Debug\netcoreapp3.1\Club.dll
+C:\Users\Lore\Documents\00programacion\01. Tecnicatura en desarrollo de software\0 2do cuatrimestre\DSOO - MDS\Al DRIVE\Club\Club-main\obj\Debug\netcoreapp3.1\Club.pdb
+C:\Users\Lore\Documents\00programacion\01. Tecnicatura en desarrollo de software\0 2do cuatrimestre\DSOO - MDS\Al DRIVE\Club\Club-main\obj\Debug\netcoreapp3.1\Club.genruntimeconfig.cache
+C:\Users\Lore\Documents\00programacion\01. Tecnicatura en desarrollo de software\0 2do cuatrimestre\DSOO - MDS\Al DRIVE\Club backup\bin\Debug\netcoreapp3.1\Club.exe
+C:\Users\Lore\Documents\00programacion\01. Tecnicatura en desarrollo de software\0 2do cuatrimestre\DSOO - MDS\Al DRIVE\Club backup\bin\Debug\netcoreapp3.1\Club.deps.json
+C:\Users\Lore\Documents\00programacion\01. Tecnicatura en desarrollo de software\0 2do cuatrimestre\DSOO - MDS\Al DRIVE\Club backup\bin\Debug\netcoreapp3.1\Club.runtimeconfig.json
+C:\Users\Lore\Documents\00programacion\01. Tecnicatura en desarrollo de software\0 2do cuatrimestre\DSOO - MDS\Al DRIVE\Club backup\bin\Debug\netcoreapp3.1\Club.runtimeconfig.dev.json
+C:\Users\Lore\Documents\00programacion\01. Tecnicatura en desarrollo de software\0 2do cuatrimestre\DSOO - MDS\Al DRIVE\Club backup\bin\Debug\netcoreapp3.1\Club.dll
+C:\Users\Lore\Documents\00programacion\01. Tecnicatura en desarrollo de software\0 2do cuatrimestre\DSOO - MDS\Al DRIVE\Club backup\bin\Debug\netcoreapp3.1\Club.pdb
+C:\Users\Lore\Documents\00programacion\01. Tecnicatura en desarrollo de software\0 2do cuatrimestre\DSOO - MDS\Al DRIVE\Club backup\obj\Debug\netcoreapp3.1\Club.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lore\Documents\00programacion\01. Tecnicatura en desarrollo de software\0 2do cuatrimestre\DSOO - MDS\Al DRIVE\Club backup\obj\Debug\netcoreapp3.1\Club.AssemblyInfoInputs.cache
+C:\Users\Lore\Documents\00programacion\01. Tecnicatura en desarrollo de software\0 2do cuatrimestre\DSOO - MDS\Al DRIVE\Club backup\obj\Debug\netcoreapp3.1\Club.AssemblyInfo.cs
+C:\Users\Lore\Documents\00programacion\01. Tecnicatura en desarrollo de software\0 2do cuatrimestre\DSOO - MDS\Al DRIVE\Club backup\obj\Debug\netcoreapp3.1\Club.csproj.CoreCompileInputs.cache
+C:\Users\Lore\Documents\00programacion\01. Tecnicatura en desarrollo de software\0 2do cuatrimestre\DSOO - MDS\Al DRIVE\Club backup\obj\Debug\netcoreapp3.1\Club.dll
+C:\Users\Lore\Documents\00programacion\01. Tecnicatura en desarrollo de software\0 2do cuatrimestre\DSOO - MDS\Al DRIVE\Club backup\obj\Debug\netcoreapp3.1\Club.pdb
+C:\Users\Lore\Documents\00programacion\01. Tecnicatura en desarrollo de software\0 2do cuatrimestre\DSOO - MDS\Al DRIVE\Club backup\obj\Debug\netcoreapp3.1\Club.genruntimeconfig.cache
+C:\Users\Lore\Documents\00programacion\01. Tecnicatura en desarrollo de software\0 2do cuatrimestre\DSOO - MDS\PRACTICAS\repos\DSOO_TP_int\Club_Fase-3\bin\Debug\netcoreapp3.1\Club.exe
+C:\Users\Lore\Documents\00programacion\01. Tecnicatura en desarrollo de software\0 2do cuatrimestre\DSOO - MDS\PRACTICAS\repos\DSOO_TP_int\Club_Fase-3\bin\Debug\netcoreapp3.1\Club.deps.json
+C:\Users\Lore\Documents\00programacion\01. Tecnicatura en desarrollo de software\0 2do cuatrimestre\DSOO - MDS\PRACTICAS\repos\DSOO_TP_int\Club_Fase-3\bin\Debug\netcoreapp3.1\Club.runtimeconfig.json
+C:\Users\Lore\Documents\00programacion\01. Tecnicatura en desarrollo de software\0 2do cuatrimestre\DSOO - MDS\PRACTICAS\repos\DSOO_TP_int\Club_Fase-3\bin\Debug\netcoreapp3.1\Club.runtimeconfig.dev.json
+C:\Users\Lore\Documents\00programacion\01. Tecnicatura en desarrollo de software\0 2do cuatrimestre\DSOO - MDS\PRACTICAS\repos\DSOO_TP_int\Club_Fase-3\bin\Debug\netcoreapp3.1\Club.dll
+C:\Users\Lore\Documents\00programacion\01. Tecnicatura en desarrollo de software\0 2do cuatrimestre\DSOO - MDS\PRACTICAS\repos\DSOO_TP_int\Club_Fase-3\bin\Debug\netcoreapp3.1\Club.pdb
+C:\Users\Lore\Documents\00programacion\01. Tecnicatura en desarrollo de software\0 2do cuatrimestre\DSOO - MDS\PRACTICAS\repos\DSOO_TP_int\Club_Fase-3\obj\Debug\netcoreapp3.1\Club.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lore\Documents\00programacion\01. Tecnicatura en desarrollo de software\0 2do cuatrimestre\DSOO - MDS\PRACTICAS\repos\DSOO_TP_int\Club_Fase-3\obj\Debug\netcoreapp3.1\Club.AssemblyInfoInputs.cache
+C:\Users\Lore\Documents\00programacion\01. Tecnicatura en desarrollo de software\0 2do cuatrimestre\DSOO - MDS\PRACTICAS\repos\DSOO_TP_int\Club_Fase-3\obj\Debug\netcoreapp3.1\Club.AssemblyInfo.cs
+C:\Users\Lore\Documents\00programacion\01. Tecnicatura en desarrollo de software\0 2do cuatrimestre\DSOO - MDS\PRACTICAS\repos\DSOO_TP_int\Club_Fase-3\obj\Debug\netcoreapp3.1\Club.csproj.CoreCompileInputs.cache
+C:\Users\Lore\Documents\00programacion\01. Tecnicatura en desarrollo de software\0 2do cuatrimestre\DSOO - MDS\PRACTICAS\repos\DSOO_TP_int\Club_Fase-3\obj\Debug\netcoreapp3.1\Club.dll
+C:\Users\Lore\Documents\00programacion\01. Tecnicatura en desarrollo de software\0 2do cuatrimestre\DSOO - MDS\PRACTICAS\repos\DSOO_TP_int\Club_Fase-3\obj\Debug\netcoreapp3.1\Club.pdb
+C:\Users\Lore\Documents\00programacion\01. Tecnicatura en desarrollo de software\0 2do cuatrimestre\DSOO - MDS\PRACTICAS\repos\DSOO_TP_int\Club_Fase-3\obj\Debug\netcoreapp3.1\Club.genruntimeconfig.cache
