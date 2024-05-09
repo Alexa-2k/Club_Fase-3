@@ -1,5 +1,4 @@
 # Novedades 
-Terminada la fase 2
-Se sube UML
+Partiendo del código de fase 2, cambiamos la condición para que los no socios puedan elegir sólo una actividad
  
-Ultimo commit 5-May 11:07 h
+Ultimo commit 9-May 10:59 h
